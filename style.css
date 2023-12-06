@@ -1,0 +1,20 @@
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+}
+* {
+    font-family: "Google Sans Display",Arial,Helvetica,sans-serif;
+}
+body {
+    font-size: 16px;
+    overscroll-behavior: none;
+    background-color: #060606 !important;
+    color: #fff;
+    overflow-y: scroll;
+}
